@@ -7,7 +7,7 @@ func print(str string) {
 }
 
 func print2(str string) {
-	fmt.Println("str2:", str)
+	fmt.Println(":", str)
 }
 
 func print3(str string) {
