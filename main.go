@@ -3,7 +3,7 @@ package testversion
 import "fmt"
 
 func print(str string) {
-	fmt.Println("str:", str)
+	fmt.Println(":", str)
 }
 
 func print2(str string) {
